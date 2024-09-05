@@ -1,6 +1,5 @@
 import numpy as np
 
-
 # Please replace "MatricNumber" with your actual matric number here and in the filename
 def A1_A0277148U(X, y):
     """
