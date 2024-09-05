@@ -24,7 +24,7 @@ print(dataset.isnull().sum())
 
 '''
 Question 6:
-Data is not always biased (False)
+Data is not always unbiased (False)
 
 Question 7:
 DORSCON is Categorical and Ordinal (1, 2)
